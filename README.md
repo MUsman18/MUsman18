@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
+<h1> About Me</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Bootstrap, Meta Front-End Developer Professional Certificate, AWS Fundamentals Specialization, IBM Data Engineering Professional Certificate**
+- 🌱 Meta Front-End Developer Professional Certificate **
 
 - 💬 Ask me about **react**
 
