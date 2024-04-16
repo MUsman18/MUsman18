@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-
+<h1> About Me </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musman18&label=Profile%20views&color=0e75b6&style=flat" alt="musman18" /> </p>
+
+- 🎓 Formal Education: Computer Science at UBIT (University of Karachi), Karachi, Pakistan
+
+- 🤝 Wants to work as a Front-End Developer
+
+- 🌱 Meta Front-End Developer Professional Certificate
 
 - 💬 Ask me about **Frontend Development, React**
 
