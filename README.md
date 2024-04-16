@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h1> About Me</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer </h3>
 
-- 🌱 Meta Front-End Developer Professional Certificate **
+- 🎓 Formal Education: Computer Science at UBIT (University of Karachi), Karachi, Pakistan
+
+- 🤝 Wants to work as a Front-End Developer
+
+- 🌱 Meta Front-End Developer Professional Certificate
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **mu92351@gmail.com**
+- 📫 How to reach me: You can contact me at **mu92351@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
